@@ -1,6 +1,6 @@
 import org.testng.annotations.Test;
 
-public class Createtest {
+public class CreateTest {
 	
 	@Test
 	public void createtest() {
